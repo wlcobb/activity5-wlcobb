@@ -12,12 +12,10 @@
 ```Python
 names = ['mary','mary','bill','sam','maria','kahn','bill','barry','george','hank','belinda','maria','karthik']
 ```
-
    2. Sort each list.
    3. Print the results which should look like the following output:
-   
    ![activity5 lists-results](https://github.com/uno-isqa-4900/activity5/blob/master/images/activity5-lists-results.png)
-   
+
    4. The program should involve creating a deduplication function where above list is sent to the function.  The function should return the deduplicated list to be sorted and printed.
 
 ## Submitting your assignment
