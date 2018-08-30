@@ -25,7 +25,8 @@ names = ['mary','mary','bill','sam','maria','kahn','bill','barry','george','hank
 
 ## Rubric
 
-| Item          | Exemplary (90% - 100%) | Competent (80% - 89%) | Acceptable (70% - 79%) | Insufficient (below 70%) |
-| ------------- |:----------------------:| ---------------------:| ----------------------:| ------------------------:|
-| Python Code (max 15 pts)      | Functions as described above and has appropriate comments in the code | Generally functions as described above and has some but not all comments | Partially functions as described above and may lack appropriate comments | Does not function as described above and lacks comments |
-| Git and GitHub (max 5 pts)      | One or more commits with all code replicated and appropriate commit comment | Code updated in GitHub but lacking an appropriate commit comment | Code not updated in GitHub | Code not updated in GitHub |
+| Items                      | Exemplary (90% - 100%)                                                      | Competent (80% - 89%)                                                    | Acceptable (70% - 79%)                                                   | Insufficient (below 70%)                                |
+|----------------------------|-----------------------------------------------------------------------------|--------------------------------------------------------------------------|--------------------------------------------------------------------------|---------------------------------------------------------|
+| Python Code (max 15 pts)   | Functions as described above and has appropriate comments in the code       | Generally functions as described above and has some but not all comments | Partially functions as described above and may lack appropriate comments | Does not function as described above and lacks comments |
+| Git and GitHub (max 5 pts) | One or more commits with all code replicated and appropriate commit comment | Code updated in GitHub but lacking an appropriate commit comment         | Code not updated in GitHub                                               | Code not updated in GitHub                              |
+|                            |                                                                             |                                                                          |                                                                          |                                                         |
