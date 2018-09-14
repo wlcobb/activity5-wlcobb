@@ -1,10 +1,8 @@
 # Activity 5
 
-
-
 #this one uses sets
-def dedupe1(x):                #function to eliminate dups.
-    return list(set(x))
+def dedupe1(x):                #function to eliminate dups. Found on codeacademy.
+    return list(set(names))        #https://www.codecademy.com/en/forum_questions/50c4df2cd7bd621707004664
 
 names = ['mary','mary','bill','sam','maria', 'kahn','bill','barry','george','hank','belinda','maria','karthik']
 print ('Activity 5 List Duplicator Function')              #heading for the activity
